@@ -5,18 +5,25 @@
 <a href="https://www.linkedin.com/in/zeelpathak"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" style=" padding: 10px" alt="LinkedIn Badge"></a>
 </p>
 
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">
 
-I’m Zeel, I love to solve problems through coding. I love to develop new things so I am also a Developer. Graduated in June 2022 with 8.82 CGPA in B.E. Information Technology, Currently looking for organization to work with. 
-<br>Open-Source is <3 .
 
-<br>
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18">:
+
+I'm Zeel
+
+- I love to solve problems through coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+- I love to develop new things so I am also a Developer.
+- Graduated in June 2022 with 8.82 CGPA in B.E. Information Technology, Currently looking for organization to work with.
+- Open-Source is <3.
+- Ping me anytime, I will be ready with my creativty and thrillness to write code.
 
 ---
-
 <br>
 
+
 ### 🛠 &nbsp;Languages and Tools :
+
+<br>
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -48,17 +55,17 @@ I’m Zeel, I love to solve problems through coding. I love to develop new thing
 <br>
 
 
-## 🔥 GitHub Stats
+### 🔥 GitHub Stats:
 
 
 <br>
 
 <a href="https://github.com/zeel-pathak">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeel-pathak&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeel-pathak&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/zeel-pathak">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=zeel-pathak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+  <img align="center" style="margin:1.5rem" src="https://github-readme-stats.vercel.app/api?username=zeel-pathak&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
 
 
